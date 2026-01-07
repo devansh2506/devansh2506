@@ -36,19 +36,16 @@ Driven by curiosity and a growth mindset, I’m always looking to deepen my unde
 ## 🚀 My Best Works
 
 ### 🔹 Crowd Counting using Computer Vision
-📌 **Repo:** [crowd-counting-model]([https://github.com/devansh2506/REPO_NAME](https://github.com/devansh2506/Crowd-Count-Estimation.git))  
 🧠 Implemented a deep learning–based crowd counting model to estimate density maps from images, focusing on model accuracy, training stability, and evaluation metrics.
 
 ---
 
 ### 🔹 Virtual Try-On System
-📌 **Repo:** [virtual-try-on]([https://github.com/devansh2506/REPO_NAME](https://github.com/devansh2506/Fashion_Recommendation_And_VITON.git))  
 🧠 Developed a virtual try-on application using computer vision and deep learning to simulate clothing fit on user images.
 
 ---
 
 ### 🔹 Course Recommender System
-📌 **Repo:** [course-recommender-system]([https://github.com/devansh2506/REPO_NAME](https://github.com/devansh2506/Course-Recommender-System.git))  
 🧠 Designed a recommendation system to suggest relevant courses based on user preferences and similarities, leveraging machine learning techniques for personalized recommendations.
 
 
