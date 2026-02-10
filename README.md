@@ -50,4 +50,10 @@ Driven by curiosity and a growth mindset, I’m always looking to deepen my unde
 
 ---
 
+### ✍️ Dev Quote
+
+> **“To understand recursion, you must first understand recursion.”**
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=devansh2506&icon=0&color=0)](https://visitcount.itsvg.in)
