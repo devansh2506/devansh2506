@@ -12,13 +12,6 @@ Driven by curiosity and a growth mindset, I’m always looking to deepen my unde
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-kedia-abb514274/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.ked99@gmail.com)
-
----
-
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -48,24 +41,10 @@ Driven by curiosity and a growth mindset, I’m always looking to deepen my unde
 ## 🚀 My Best Works
 
 ### 🔹 Crowd Counting using Computer Vision
-🧠 Implemented a deep learning–based crowd counting model to estimate density maps from images, focusing on model accuracy, training stability, and evaluation metrics.
-
 ---
-
 ### 🔹 Virtual Try-On System
-🧠 Developed a virtual try-on application using computer vision and deep learning to simulate clothing fit on user images.
-
 ---
-
 ### 🔹 Course Recommender System
-🧠 Designed a recommendation system to suggest relevant courses based on user preferences and similarities, leveraging machine learning techniques for personalized recommendations.
-
----
-
-### ✍️ Dev Quote
-
-> **“To understand recursion, you must first understand recursion.”**
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=devansh2506&icon=0&color=0)](https://visitcount.itsvg.in)
