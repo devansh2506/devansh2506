@@ -38,15 +38,6 @@ Driven by curiosity and a growth mindset, I’m always looking to deepen my unde
 
 ---
 
-## 🚀 My Best Works
-
-### 🔹 Crowd Counting using Computer Vision
----
-### 🔹 Virtual Try-On System
----
-### 🔹 Course Recommender System
----
-
 [![](https://visitcount.itsvg.in/api?id=devansh2506&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![snake gif](https://github.com/devansh2506/devansh2506/blob/output/github-snake-dark.svg)
