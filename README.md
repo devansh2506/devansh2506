@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-I’m a second-year **B.Tech student at Delhi Technological University (DTU)**, actively building my skills in **Artificial Intelligence and Machine Learning**. I enjoy working at the intersection of theory and practice, turning ideas into functional, real-world systems.
+I’m a third-year **B.Tech student at Delhi Technological University (DTU)**, actively building my skills in **Artificial Intelligence and Machine Learning**. I enjoy working at the intersection of theory and practice, turning ideas into functional, real-world systems.
 
 I learn best by experimenting and building—constantly exploring new concepts, reading research, and implementing models from scratch. I’m particularly interested in understanding **why** things work, not just **how** to use them.
 
